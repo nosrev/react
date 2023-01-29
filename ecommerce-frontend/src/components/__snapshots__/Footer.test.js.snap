@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Footer 1`] = `
+<div
+  id="footer"
+>
+  <div
+    className="container mx-auto"
+  >
+    <div
+      className="flex flex-wrap md:flex-nowrap"
+    >
+      <div
+        className="basis-full md:basis-1/4"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <img
+            alt="Store"
+            className="mx-auto"
+            src="logo-footer.png"
+          />
+        </a>
+        <ul
+          className="socials"
+        >
+          <li>
+            <a
+              href="https://facebook.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                className="icon w-5 fill-slate-300"
+              >
+                facebook.svg
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://twitter.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                className="icon w-5 fill-slate-300"
+              >
+                twitter.svg
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.behance.net"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                className="icon w-5 fill-slate-300"
+              >
+                behance.svg
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://dribbble.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                className="icon w-5 fill-slate-300"
+              >
+                dribble.svg
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://linkedin.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <svg
+                className="icon w-5 fill-slate-300"
+              >
+                linkedin.svg
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        className="basis-full md:basis-2/4"
+      >
+        <ul
+          className="menu"
+        >
+          <li>
+            <a
+              href="/shop"
+              onClick={[Function]}
+            >
+              Homem
+            </a>
+          </li>
+          <li>
+            <a
+              href="/shop"
+              onClick={[Function]}
+            >
+              Mulher
+            </a>
+          </li>
+          <li>
+            <a
+              href="/"
+            >
+              Lookbook
+            </a>
+          </li>
+          <li>
+            <a
+              href="/"
+            >
+              Oferta
+            </a>
+          </li>
+          <li>
+            <a
+              href="/"
+            >
+              Blog
+            </a>
+          </li>
+        </ul>
+        <div
+          className="newsletter"
+        >
+          <h6>
+            Inscreva-se
+          </h6>
+          <input
+            className="input"
+            placeholder="Email Address"
+            required={true}
+            type="text"
+          />
+          <button
+            className="btn-submit"
+          >
+            Enviar
+          </button>
+        </div>
+      </div>
+      <div
+        className="basis-full md:basis-1/4"
+      >
+        <h6>
+          Contato
+        </h6>
+        <p
+          className="contact"
+        >
+          Av Paulista, 100000
+          <br />
+          Consolação - São Paulo
+          <br />
+          (11) 9999-9999
+        </p>
+        <img
+          alt=""
+          src="payment.png"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,356 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Header 1`] = `
+<div
+  id="header"
+>
+  <div
+    className="container mx-auto flex flex-row justify-between items-center"
+  >
+    <div
+      className="flex"
+    >
+      <button
+        className=""
+        id="showMenu"
+        onClick={[Function]}
+      >
+        <span
+          aria-hidden="true"
+        />
+        <span
+          aria-hidden="true"
+        />
+        <span
+          aria-hidden="true"
+        />
+      </button>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <img
+          alt="Store"
+          src="logo.png"
+        />
+      </a>
+    </div>
+    <ul
+      className="menu list-none"
+    >
+      <li>
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          href="/shop"
+          onClick={[Function]}
+        >
+          Loja
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Blog
+        </a>
+      </li>
+      <li>
+        <a
+          href="/"
+        >
+          Contato
+        </a>
+      </li>
+    </ul>
+    <div
+      className="flex items-center"
+    >
+      <ul
+        className="links list-none"
+      >
+        <li>
+          <a
+            href="/"
+          >
+            Entrar
+          </a>
+        </li>
+        <li>
+          <a
+            href="/"
+          >
+            Cadastrar
+          </a>
+        </li>
+      </ul>
+      <div
+        className="flex items-center"
+      >
+        <button
+          className="cart-btn"
+          onClick={[Function]}
+        >
+          <svg
+            className="icon w-10 fill-white"
+          >
+            bag.svg
+          </svg>
+          <span
+            className="counter font-bold bg-white px-2 py-1 rounded-full"
+          >
+            0
+          </span>
+        </button>
+        <button
+          id="toggle-search"
+          onClick={[Function]}
+        >
+          <svg
+            className="icon w-8 fill-white"
+          >
+            search.svg
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div
+      className="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left"
+      id="menu-mobile"
+    >
+      <ul>
+        <li>
+          <a
+            href="/"
+            onClick={[Function]}
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/"
+          >
+            Entrar
+          </a>
+        </li>
+        <li>
+          <a
+            href="/"
+          >
+            Cadastrar
+          </a>
+        </li>
+        <li>
+          <a
+            href="/shop"
+            onClick={[Function]}
+          >
+            Loja
+          </a>
+        </li>
+        <li>
+          <a
+            href="/"
+          >
+            Blog
+          </a>
+        </li>
+        <li>
+          <a
+            href="/"
+          >
+            Contato
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className=""
+    id="search-form"
+  >
+    <button
+      className="close btn-none"
+      onClick={[Function]}
+    >
+      <svg
+        className="icon w-10 stroke-white stroke-2"
+      >
+        close.svg
+      </svg>
+    </button>
+    <div
+      className="flex items-center"
+    >
+      <input
+        className="input"
+        placeholder="Digite o que deseja"
+        type="text"
+      />
+      <button
+        className="btn-none"
+        id="btn-search"
+      >
+        <svg
+          className="icon w-8"
+        >
+          search.svg
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div
+    className=" bg-white"
+    data-testid="side-cart"
+    id="side-cart"
+  >
+    <button
+      className="close-cart btn-none"
+      onClick={[Function]}
+    >
+      <svg
+        className="icon w-5 stroke-black stroke-2"
+      >
+        close.svg
+      </svg>
+    </button>
+    <h3
+      className="font-semibold text-2xl text-center border-b py-2 px-5"
+    >
+      Cart
+    </h3>
+    <div
+      className="products mt-2 px-3 overflow-auto h-3/4"
+    >
+      <div
+        className="product flex border-b py-3"
+      >
+        <img
+          alt="Produto"
+          className="w-20 mr-3"
+          src="produto.png"
+        />
+        <div>
+          <h6
+            className="font-medium"
+          >
+            Flecked cotton-blend
+          </h6>
+          <span
+            className="font-medium text-lg text-primary"
+          >
+            $175.00
+          </span>
+        </div>
+      </div>
+      <div
+        className="product flex border-b py-3"
+      >
+        <img
+          alt="Produto"
+          className="w-20 mr-3"
+          src="produto.png"
+        />
+        <div>
+          <h6
+            className="font-medium"
+          >
+            Flecked cotton-blend
+          </h6>
+          <span
+            className="font-medium text-lg text-primary"
+          >
+            $175.00
+          </span>
+        </div>
+      </div>
+      <div
+        className="product flex border-b py-3"
+      >
+        <img
+          alt="Produto"
+          className="w-20 mr-3"
+          src="produto.png"
+        />
+        <div>
+          <h6
+            className="font-medium"
+          >
+            Flecked cotton-blend
+          </h6>
+          <span
+            className="font-medium text-lg text-primary"
+          >
+            $175.00
+          </span>
+        </div>
+      </div>
+      <div
+        className="product flex border-b py-3"
+      >
+        <img
+          alt="Produto"
+          className="w-20 mr-3"
+          src="produto.png"
+        />
+        <div>
+          <h6
+            className="font-medium"
+          >
+            Flecked cotton-blend
+          </h6>
+          <span
+            className="font-medium text-lg text-primary"
+          >
+            $175.00
+          </span>
+        </div>
+      </div>
+      <div
+        className="product flex border-b py-3"
+      >
+        <img
+          alt="Produto"
+          className="w-20 mr-3"
+          src="produto.png"
+        />
+        <div>
+          <h6
+            className="font-medium"
+          >
+            Flecked cotton-blend
+          </h6>
+          <span
+            className="font-medium text-lg text-primary"
+          >
+            $175.00
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="absolute bottom-4 w-full px-3"
+    >
+      <a
+        className="border bg-white border-primary w-full block text-center text-primary py-1"
+        href="/"
+      >
+        Carrinho
+      </a>
+      <a
+        className="border bg-primary border-primary w-full block text-white text-center py-1 mt-2"
+        href="/"
+      >
+        Checkout
+      </a>
+    </div>
+  </div>
+</div>
+`;

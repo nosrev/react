@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Product 1`] = `
+Array [
+  <a
+    href="/product"
+    onClick={[Function]}
+  >
+    <div
+      className="product border border-slate-300"
+    >
+      <span
+        className="product-badge"
+      >
+        oferta
+      </span>
+      <img
+        alt="Camiseta algodão"
+        src="produto.png"
+      />
+      <p
+        className="product-name"
+      >
+        Camiseta algodão
+      </p>
+      <p
+        className="product-price"
+      >
+        <span
+          className="old-price"
+        >
+          R$200.00
+        </span>
+        <span
+          className="special-price"
+        >
+          R$100.00
+        </span>
+      </p>
+    </div>
+  </a>,
+  ",",
+]
+`;

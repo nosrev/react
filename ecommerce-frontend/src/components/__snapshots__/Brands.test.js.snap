@@ -1,0 +1,550 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Brands 1`] = `
+<div
+  className="brands-wrapper"
+>
+  <div
+    className="slick-slider brands slick-initialized"
+    dir="ltr"
+  >
+    <div
+      className="slick-arrow slick-prev"
+      onClick={[Function]}
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+    >
+      <svg
+        className="icon w-8 left"
+      >
+        left.svg
+      </svg>
+    </div>
+    <div
+      className="slick-list"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={null}
+      onMouseMove={null}
+      onMouseUp={[Function]}
+      onTouchCancel={null}
+      onTouchEnd={[Function]}
+      onTouchMove={null}
+      onTouchStart={[Function]}
+      style={Object {}}
+    >
+      <div
+        className="slick-track"
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        style={
+          Object {
+            "WebkitTransform": "translate3d(0px, 0px, 0px)",
+            "WebkitTransition": "",
+            "msTransform": "translateX(0px)",
+            "opacity": 1,
+            "transform": "translate3d(0px, 0px, 0px)",
+            "transition": "",
+          }
+        }
+      >
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={-4}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand4"
+              src="brand4.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={-3}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand2"
+              src="brand2.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={-2}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand1"
+              src="brand1.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={-1}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand3"
+              src="brand3.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={false}
+          className="slick-slide slick-active slick-current"
+          data-index={0}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand1"
+              src="brand1.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={false}
+          className="slick-slide slick-active"
+          data-index={1}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand2"
+              src="brand2.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={false}
+          className="slick-slide slick-active"
+          data-index={2}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand3"
+              src="brand3.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={false}
+          className="slick-slide slick-active"
+          data-index={3}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand4"
+              src="brand4.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide"
+          data-index={4}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand2"
+              src="brand2.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide"
+          data-index={5}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand1"
+              src="brand1.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide"
+          data-index={6}
+          onClick={[Function]}
+          style={
+            Object {
+              "outline": "none",
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand3"
+              src="brand3.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={7}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand1"
+              src="brand1.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={8}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand2"
+              src="brand2.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={9}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand3"
+              src="brand3.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={10}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand4"
+              src="brand4.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={11}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand2"
+              src="brand2.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={12}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand1"
+              src="brand1.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+        <div
+          aria-hidden={true}
+          className="slick-slide slick-cloned"
+          data-index={13}
+          onClick={[Function]}
+          style={
+            Object {
+              "width": 0,
+            }
+          }
+          tabIndex="-1"
+        >
+          <div>
+            <img
+              alt="brand3"
+              src="brand3.png"
+              style={
+                Object {
+                  "display": "inline-block",
+                  "width": "100%",
+                }
+              }
+              tabIndex={-1}
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="slick-arrow slick-next"
+      onClick={[Function]}
+      style={
+        Object {
+          "display": "block",
+        }
+      }
+    >
+      <svg
+        className="icon w-8 right"
+      >
+        right.svg
+      </svg>
+    </div>
+  </div>
+</div>
+`;

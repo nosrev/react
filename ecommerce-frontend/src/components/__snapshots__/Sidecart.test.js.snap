@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Sidecart 1`] = `
+<div
+  className="undefined bg-white"
+  data-testid="side-cart"
+  id="side-cart"
+>
+  <button
+    className="close-cart btn-none"
+  >
+    <svg
+      className="icon w-5 stroke-black stroke-2"
+    >
+      close.svg
+    </svg>
+  </button>
+  <h3
+    className="font-semibold text-2xl text-center border-b py-2 px-5"
+  >
+    Cart
+  </h3>
+  <div
+    className="products mt-2 px-3 overflow-auto h-3/4"
+  >
+    <div
+      className="product flex border-b py-3"
+    >
+      <img
+        alt="Produto"
+        className="w-20 mr-3"
+        src="produto.png"
+      />
+      <div>
+        <h6
+          className="font-medium"
+        >
+          Flecked cotton-blend
+        </h6>
+        <span
+          className="font-medium text-lg text-primary"
+        >
+          $175.00
+        </span>
+      </div>
+    </div>
+    <div
+      className="product flex border-b py-3"
+    >
+      <img
+        alt="Produto"
+        className="w-20 mr-3"
+        src="produto.png"
+      />
+      <div>
+        <h6
+          className="font-medium"
+        >
+          Flecked cotton-blend
+        </h6>
+        <span
+          className="font-medium text-lg text-primary"
+        >
+          $175.00
+        </span>
+      </div>
+    </div>
+    <div
+      className="product flex border-b py-3"
+    >
+      <img
+        alt="Produto"
+        className="w-20 mr-3"
+        src="produto.png"
+      />
+      <div>
+        <h6
+          className="font-medium"
+        >
+          Flecked cotton-blend
+        </h6>
+        <span
+          className="font-medium text-lg text-primary"
+        >
+          $175.00
+        </span>
+      </div>
+    </div>
+    <div
+      className="product flex border-b py-3"
+    >
+      <img
+        alt="Produto"
+        className="w-20 mr-3"
+        src="produto.png"
+      />
+      <div>
+        <h6
+          className="font-medium"
+        >
+          Flecked cotton-blend
+        </h6>
+        <span
+          className="font-medium text-lg text-primary"
+        >
+          $175.00
+        </span>
+      </div>
+    </div>
+    <div
+      className="product flex border-b py-3"
+    >
+      <img
+        alt="Produto"
+        className="w-20 mr-3"
+        src="produto.png"
+      />
+      <div>
+        <h6
+          className="font-medium"
+        >
+          Flecked cotton-blend
+        </h6>
+        <span
+          className="font-medium text-lg text-primary"
+        >
+          $175.00
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="absolute bottom-4 w-full px-3"
+  >
+    <a
+      className="border bg-white border-primary w-full block text-center text-primary py-1"
+      href="/"
+    >
+      Carrinho
+    </a>
+    <a
+      className="border bg-primary border-primary w-full block text-white text-center py-1 mt-2"
+      href="/"
+    >
+      Checkout
+    </a>
+  </div>
+</div>
+`;
